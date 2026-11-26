@@ -101,3 +101,6 @@ csharp/packages
 *.out
 *.app
 
+prueba_alpha_cg/build/
+prueba.usearch
+prueba_alpha_cg/

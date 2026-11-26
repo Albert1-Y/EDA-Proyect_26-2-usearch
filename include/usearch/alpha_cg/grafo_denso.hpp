@@ -26,6 +26,7 @@ struct EstadisticasGrafoDenso {
     std::size_t iteraciones = 0;
     std::size_t distancias_calculadas = 0;
     std::vector<std::size_t> cambios_por_iteracion; 
+};
 
 // fuerza bruta
 template <class Distancias>
